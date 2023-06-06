@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+Bio
 ======
 I'm a PhD Student in Computer Science at the University of Iowa, advised by [Dr. Sriram Pemmaraju](https://cs.uiowa.edu/people/sriram-pemmaraju) and [Dr. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari) in the Computational Epidemiology research group.
 
