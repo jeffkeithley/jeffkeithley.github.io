@@ -11,6 +11,6 @@ author: 'Imelda Trejo, Martha Barnard, Julie A. Spencer, <strong>Jeffrey Keithle
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[pdf](https://jeffkeithley.github.io/files/2023-02-15-dengue-paper.pdf)
+[pdf](https://jeffkeithley.github.io/files/dengue-paper.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->

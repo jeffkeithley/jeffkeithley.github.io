@@ -11,6 +11,6 @@ author: 'Mateusz Wilinski, Lauren Castro, <strong>Jeffrey Keithley</strong>, Car
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[pdf](https://jeffkeithley.github.io/files/2023-03-30-cholera-paper.pdf)
+[pdf](https://jeffkeithley.github.io/files/cholera-paper.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
