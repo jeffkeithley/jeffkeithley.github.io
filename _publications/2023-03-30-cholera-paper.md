@@ -1,11 +1,11 @@
 ---
-title: "Congruity of genomic and epidemiological data in modeling of local cholera outbreaks"
+title: "Congruity of Genomic and Epidemiological Data in Modelling of Local Cholera Outbreaks"
 collection: publications
 permalink: /publication/cholera-paper
 excerpt: ''
-date: 2023-03-30
-venue: 'Under Review'
-paperurl: 'https://arxiv.org/abs/2210.01956'
+date: 2024-03-27
+venue: 'Proceedings of the Royal Society B: Biological Sciences 291, no. 2019'
+paperurl: 'https://royalsocietypublishing.org/doi/10.1098/rspb.2023.2805'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 author: 'Mateusz Wilinski, Lauren Castro, <strong>Jeffrey Keithley</strong>, Carrie Manore, Josefina Campos, Ethan Romero-Severson, Daryl Domman, and Andrey Y. Lokhov'
 ---
